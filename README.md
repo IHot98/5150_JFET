@@ -10,4 +10,4 @@ Zadnji put rađeno na projektu davne 2017 godine.
 
 Neke slike
 ---
-[shema](./Screenshot_1.png)
+[shema](https://github.com/IHot98/5150_JFET/blob/main/Screenshot_1.png)

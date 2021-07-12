@@ -1,6 +1,9 @@
 # 5150 JFET
 ---
 Ne realizirani projekt 
+
+5150 jfet je gitarski efekt pedala koja simulira zvuk lampaškog pojačala peavy 5150
+
 Dizajnirana shema i pločica u KiCadu 
 
 Projekt je nedovršen i zaboravljen zbog viših sila fakulteta. XD  
